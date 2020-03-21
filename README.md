@@ -1,2 +1,3 @@
-#JPGtoPNGconverter
+JPGtoPNGconverter
+
 JPG to PNG images
