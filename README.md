@@ -1,2 +1,1 @@
-# JPGtoPNGconverter
-JPG to PNG images
+# pokedex
